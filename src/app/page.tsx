@@ -1,7 +1,7 @@
 const Page = () => {
   return (
     <div>
-      <button variant="new">
+      <button className="backdrop-blur-lg">
         Fucking Click me!
       </button>
     </div>
