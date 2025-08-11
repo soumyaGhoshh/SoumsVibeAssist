@@ -30,5 +30,4 @@
     ```
     - git init(initialises git)
     - create a repo on your git account
-    - git remote 
     
